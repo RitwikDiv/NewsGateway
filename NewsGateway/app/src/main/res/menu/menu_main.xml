@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_all"
+        android:color="@color/colorAccent"
+        android:title="All"
+        android:visible="true" />
+    <item
+        android:id="@+id/menu_business"
+        android:textColor="#00FF00"
+        android:title="Business"
+        android:visible="true" />
+    <item
+        android:id="@+id/menu_entertainment"
+        android:title="Entertainment"
+        android:textColor="#0000FF"/>
+    <item
+        android:id="@+id/menu_gaming"
+        android:title="Gaming"
+        android:textColor="#FF4674"/>
+    <item
+        android:id="@+id/menu_general"
+        android:title="General"
+        android:textColor="#1A8F7A"/>
+    <item
+        android:id="@+id/menu_music"
+        android:title="Music"
+        android:textColor="#11000C"/>
+    <item
+        android:id="@+id/menu_politics"
+        android:title="Politics"
+        android:textColor="#B27217"/>
+    <item
+        android:id="@+id/menu_Science"
+        android:title="Science/Nature"
+        android:textColor="#B24C17"/>
+    <item
+        android:id="@+id/menu_sport"
+        android:title="Sport"
+        android:textColor="#74D380"/>
+    <item
+        android:id="@+id/menu_technology"
+        android:title="Technology"
+        android:textColor="#BBD0C8"/>
+</menu>
